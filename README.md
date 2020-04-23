@@ -1,0 +1,10 @@
+# Face-Detection
+FACE DETECTION USING C++ AND OPENCV
+
+Environment for this project requires:
+
+1. Visual Studio (2017): set up to use with OpenCV library
+2. OpenCV Library (4.3.0): a library of programming functions mainly aimed at real-time computer vision
+
+Note:
+- Check the correct path to library, input and output images
